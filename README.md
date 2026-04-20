@@ -1,6 +1,6 @@
-# OS_EX1
+# memory latency
 
-This repository contains starter code for an Operating Systems memory latency exercise.
+This repository contains starter code for an Operating Systems memory latency
 
 ## Repository Contents
 
